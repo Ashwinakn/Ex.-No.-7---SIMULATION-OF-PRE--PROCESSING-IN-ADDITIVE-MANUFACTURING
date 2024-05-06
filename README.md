@@ -45,7 +45,9 @@
 
 ## Output:
 
-![EX 6](https://github.com/Ashwinakn/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/fe805bf7-21e9-43c3-adbe-e4f318e5b41e)
+![EX-6 1](https://github.com/Ashwinakn/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/bf536bc3-1e2b-47fd-8ac9-a83e9f33d454)
+
+![EX-6 2](https://github.com/Ashwinakn/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/152128332/e8bb6aec-e0ea-45fb-bbe5-d619346fdd0e)
 
 ### Name: ASHWINA K N
 ### Register Number: 212223230025
